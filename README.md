@@ -25,6 +25,8 @@ The leaderboard is evaluated using F1 Score for the participant’s submission.
 
 ## Rank : 43
 
-## Online score : 0.9508197
+![masgpolarity](https://user-images.githubusercontent.com/56091634/84694139-55d88680-af66-11ea-9199-2d307a65ef1b.png)
+
+## Online score : 0.9185185
 
 ## Local score : 0.9595745799083806
